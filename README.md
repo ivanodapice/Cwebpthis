@@ -8,7 +8,7 @@ Now after extracting the .zip file you have to set the bin folder to variable pa
 In order to do this type in your windows search `edit the system environment variables`
 Then click on `Environment Variables` in the bottom-right corner, and go to `path - new `
 Your new path line should look like this : 
-`Path:: C:\Folder_Where_You've_Extracted_.Zip\libwebp\bin`
+`C:\Folder_Where_You've_Extracted_.Zip\libwebp\bin`
 
 Open cmd to check if you have done right till now.
 
