@@ -28,7 +28,7 @@ After you've done this just go to any directory, type cmd in your file explorer 
 
 It should look like this :
 
-[![executed program][]][]
+[![executed program][4]][4]
    
   [1]: https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html
   [2]: https://i.stack.imgur.com/YoL6I.png
