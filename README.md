@@ -19,6 +19,7 @@ Open cmd to check if you have done right till now.
 Be sure to have python installed on your machine
 
 - `cmd> python --version`
+
 [![python --version][3]][3]
 
 Now go to your python's script folder and copy the .exe so you can run the program everywhere on your pc
